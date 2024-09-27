@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\bin\Debug\net8.0\ran_san_moi.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\bin\Debug\net8.0\ran_san_moi.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\bin\Debug\net8.0\ran_san_moi.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\bin\Debug\net8.0\ran_san_moi.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\bin\Debug\net8.0\ran_san_moi.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\refint\ran_san_moi.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ref\ran_san_moi.dll
