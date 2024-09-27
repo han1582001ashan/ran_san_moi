@@ -12,3 +12,4 @@ C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\refint\r
 C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.pdb
 C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.genruntimeconfig.cache
 C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ref\ran_san_moi.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ran_san_moi\obj\Debug\net8.0\ran_san_moi.sourcelink.json
