@@ -269,7 +269,8 @@ namespace RanSanMoi
             string highScore;
             try
             {
-                string sourceFilePath = @"/Users/loopo/OneDrive/Desktop/BT Codegym/ran_san_moi/save.csv";
+                string sourceFilePath= Path.GetFullPath("save.csv");
+            
                 highScore = File.ReadAllText(sourceFilePath);
 
             }
@@ -283,7 +284,8 @@ namespace RanSanMoi
         {
             try
             {
-                string sourceFilePath = @"/Users/loopo/OneDrive/Desktop/BT Codegym/ran_san_moi/save.csv";
+                 string sourceFilePath= Path.GetFullPath("save.csv");
+    
                 File.WriteAllText(sourceFilePath, highscore);
             }
             catch (Exception e)
